@@ -1,7 +1,7 @@
 <!--DOCTYPE html-->
 <!--html-->
 <head>
-<title>Cats!</title>
+<!-- <title>Cats!</title> -->
 <!-- <style>
 td,th {border: 1px solid #CCC;}
 table {border: 1px solid black;}
