@@ -2,10 +2,10 @@
 <!--html-->
 <head>
 <title>Cats!</title>
-<style>
+<!-- <style>
 td,th {border: 1px solid #CCC;}
 table {border: 1px solid black;}
-</style>
+</style> -->
 </head>
 <body>
 <h1>Cats</h1>
